@@ -1,5 +1,5 @@
 # conflit
-Oui nous combattrons ces cloportes
+Oui nous combattrons ces cloportes Changes
 Qui vendent leurs idées mortifères
 Jusque sur le seuil de nos portes
 À ceux qui ont pas les pieds sur terre
